@@ -12,3 +12,7 @@ Welcome to ThibRTD1's documentation!
 
    page1
    page2
+
+   thibrtd:index
+   thibrtd1:index
+
