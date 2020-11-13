@@ -8,7 +8,7 @@ Welcome to ThibRTD1's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Contents 0.1:
 
    page1
    page2
