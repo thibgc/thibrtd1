@@ -12,11 +12,3 @@ Welcome to ThibRTD1's documentation!
 
    page1
    page2
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
