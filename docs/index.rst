@@ -13,6 +13,9 @@ Welcome to ThibRTD1's documentation!
    page1
    page2
 
-   thibrtd:index
-   thibrtd1:index
+.. toctree::
+   :maxdepth: 2
+   :caption: All projects:
 
+   ThibRTD <https://thibrtd.readthedocs.io/en/latest/>
+   ThibRTD1 <https://thibrtd.readthedocs.io/projects/thibrtd1/en/latest/>
