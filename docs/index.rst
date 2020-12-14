@@ -16,6 +16,7 @@ Welcome to ThibRTD1's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: All projects:
+   :hidden:
 
    ThibRTD <https://thibrtd.readthedocs.io/en/latest/>
    ThibRTD1 <https://thibrtd.readthedocs.io/projects/thibrtd1/en/latest/>
